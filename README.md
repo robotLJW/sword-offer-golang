@@ -1,2 +1,2 @@
 # sword-offer-golang
-sword-offer的使用golang刷题记录
+剑指offer的个人刷题记录
