@@ -12,3 +12,5 @@
 [剑指 Offer 32 - III. 从上到下打印二叉树 III](32-III-offer-cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.go)
 
 [剑指 Offer 33. 二叉搜索树的后序遍历序列](33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.go)
+
+[剑指 Offer 34. 二叉树中和为某一值的路径](34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.go)
