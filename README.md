@@ -1,5 +1,8 @@
 # sword-offer-golang
+
 剑指offer的个人刷题记录
+
+[剑指 Offer 03. 数组中重复的数字](3-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.go)
 
 [剑指 Offer 30. 包含min函数的栈](30-offer-bao-han-minhan-shu-de-zhan-lcof/bao_han_minhan_shu_de_zhan_lcof.go)
 
